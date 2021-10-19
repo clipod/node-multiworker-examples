@@ -23,7 +23,7 @@ const trigger = async () => {
     const startTime = Date.now();
     const [a, b, c] = await Promise.all([run(), run(), run(),run(), run(), run()]);
     const endTime = Date.now();
-    console.log(`Time take for the async execution: ${endTime - startTime}`);
+    console.log(`Time take for the parent-worker execution: ${endTime - startTime}`);
 }
 
 
