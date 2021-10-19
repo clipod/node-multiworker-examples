@@ -1,0 +1,23 @@
+{
+  "name": "multiworker-examples",
+  "version": "1.0.0",
+  "description": "This repo contains example for workers() and Promises to perform concurrency &amp; parallelization with CPU and I/O intense operations",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clipod/node-multiworker-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clipod/node-multiworker-examples/issues"
+  },
+  "homepage": "https://github.com/clipod/node-multiworker-examples#readme",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "request-promise": "^4.2.6"
+  }
+}
