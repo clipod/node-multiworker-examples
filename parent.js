@@ -15,7 +15,7 @@ function runService(workerData) {
 }
 
 async function run() {
-    const result = await runService('GeeksForGeeks')
+    const result = await runService('Testing data')
     console.log(result);
 }
 
