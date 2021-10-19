@@ -18,6 +18,7 @@
   "homepage": "https://github.com/clipod/node-multiworker-examples#readme",
   "dependencies": {
     "axios": "^0.23.0",
-    "request-promise": "^4.2.6"
+    "request-promise": "^4.2.6",
+    "sleep": "^6.3.0"
   }
 }
